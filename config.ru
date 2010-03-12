@@ -1,0 +1,1 @@
+Bundler.require; RackPanel.boot!(self)
